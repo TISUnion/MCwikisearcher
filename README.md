@@ -1,1 +1,1 @@
-# MCwikisearcher
+a plugin for MCDaemon
